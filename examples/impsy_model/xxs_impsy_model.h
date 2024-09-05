@@ -1,0 +1,4 @@
+#include <cstdint>
+
+extern const unsigned int models_musicMDRNN_dim4_layers2_units16_mixtures5_scale10_tflite_len;
+extern const unsigned char models_musicMDRNN_dim4_layers2_units16_mixtures5_scale10_tflite[];
